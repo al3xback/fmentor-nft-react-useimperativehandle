@@ -15,7 +15,7 @@ const Card = ({
 			</div>
 			<div className="card__content">
 				<h2 className="card__title">
-					<a href="#/" className="btn btn--link">
+					<a href="#" className="btn btn--link">
 						{title}
 					</a>
 				</h2>
@@ -40,7 +40,7 @@ const Card = ({
 					/>
 					<span className="card__author-desc">
 						Creation of&nbsp;
-						<a href="#/" className="btn btn--link">
+						<a href="#" className="btn btn--link">
 							{author.name}
 						</a>
 					</span>
